@@ -1,0 +1,10 @@
+{
+  "name": "discord-radio-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^14.9.0",
+    "@discordjs/voice": "^6.0.0",
+    "ffmpeg-static": "^5.0.0"
+  }
+}
